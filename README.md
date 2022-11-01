@@ -3,6 +3,8 @@
 
 This is a Laravel/Lumen provider for interacting with [Pinata](https://pinata.cloud/) API. 
 
+## Note: Special thanks to Daniel Isac (danielcrt) for providing package.
+
 ### Install
 
   
@@ -12,7 +14,7 @@ Require this package with composer using the following command:
   
 
 ```bash
-composer require danielcrt/pinata-laravel
+composer require desnake/pinata-laravel-v9
 ```
 
 ### Installation
