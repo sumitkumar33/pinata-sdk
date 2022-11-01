@@ -10,7 +10,7 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "illuminate/support": "^8.77"
+        "laravel/framework": "^9.19"
     },
     "autoload": {
         "psr-4": {
