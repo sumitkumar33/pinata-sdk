@@ -1,5 +1,5 @@
 {
-    "name": "danielcrt/pinata-laravel",
+    "name": "desnake/pinata-laravel-v9",
     "description": "The Laravel provider for Pinata API.",
     "keywords": [
         "framework",
@@ -10,7 +10,8 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "laravel/framework": "^9.19"
+        "laravel/framework": "^9.19",
+        "guzzlehttp/guzzle": "^7.5"
     },
     "autoload": {
         "psr-4": {
